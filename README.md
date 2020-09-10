@@ -2,8 +2,8 @@
 
 This is an Android Application developed to track COVID-19 live data. Data can be seen as worldwide or as country wise. The data shown in the application in form of numbers as well as graph.
 
-## Screen shots
+## Screenshots
 
-https://user-images.githubusercontent.com/65588833/86569320-d7cb3680-bf8b-11ea-8436-49cf1affd1d2.jpg
-https://user-images.githubusercontent.com/65588833/86570924-53c67e00-bf8e-11ea-8cd1-c4a557e85948.jpg
-https://user-images.githubusercontent.com/65588833/86570947-5a54f580-bf8e-11ea-90db-b553d0612008.jpg
+![image](https://user-images.githubusercontent.com/71066267/92700919-03441600-f36d-11ea-866c-a3b15ba40cae.png)
+![image](https://user-images.githubusercontent.com/71066267/92700972-135bf580-f36d-11ea-878f-273b5afe4e55.png)
+![image](https://user-images.githubusercontent.com/71066267/92700987-19ea6d00-f36d-11ea-95f6-2e552077bce0.png)
